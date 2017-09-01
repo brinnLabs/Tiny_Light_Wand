@@ -1,4 +1,4 @@
-# Tiny_LightWand
+# Tiny Light Wand
 ![alt tag](https://github.com/brinnLabs/Tiny_Light_Wand/blob/master/IMG_9149.JPG)
 
 A simple cheap light wand for time lapse photography
